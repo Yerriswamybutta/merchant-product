@@ -1,0 +1,1 @@
+Merchant Product, is a dynamic e-commerce platform developed using cutting-edge technologies such as Spring Boot and ReactJS. Leveraging the robust backend capabilities of Spring Boot, we ensure seamless and efficient server-side operations. The frontend is crafted with ReactJS, providing a responsive and user-friendly interface.
